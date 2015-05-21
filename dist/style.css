@@ -1,0 +1,14 @@
+#color {
+	font-size: 200px;
+	font-family: "Courier New";
+	margin-right: auto;
+	margin-left: auto;
+	text-align: center;
+	color: turquoise;
+	font-weight: 700;
+	border:20px dashed grey;
+	margin-top: 200px;
+	margin-bottom: 200px;
+	padding:10px;
+
+}
